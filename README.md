@@ -12,6 +12,7 @@ NodeMCU Amica
 SCD30  
 LCD Grove-16x2 (Black on Yellow)  
 Grove I2C-Hub  
+Grove 4-Digit Display mit TM1637  
 
 
 ## ToDo
