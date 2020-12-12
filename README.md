@@ -3,7 +3,7 @@
 ## Diverse Dinge zum Thema CO2-Ampel.  
 
 Der Code ist meist "irgendwie" zusammengefunden. Ein Teil wurde auch aus ardublock-IoT_V516 heraus erzeugt.  
-Die Einbindung in die Arduino Umgebung ist recht einfach, wenn man weiß, wie's geht :-)  
+Die Einbindung von ardublock-IoT_V516 in die Arduino Umgebung ist recht einfach, wenn man weiß, wie's geht :-)  
 
 
 verwendete Hardware der Testumgebung:  
